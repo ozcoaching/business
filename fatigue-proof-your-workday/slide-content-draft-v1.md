@@ -91,12 +91,24 @@ Hint: the one that has become "normal".
 *Notes:* Be honest: micro-breaks help, they are not a cure. Effects are strongest when they are regular.
 
 ## 13. Between shifts: the recovery basics (4 min)
-- **Sleep:** protect it; dark, cool, quiet; consistent routine
-- **Hydration:** drink steadily through the shift
-- **Fuel:** regular meals; protein and carbs for energy; limit heavy meals and stimulants late in the day
+- **Sleep:** earplugs, eye mask, dark/cool room; phones and blue-light screens off before sleep
+- **Hydration:** drink steadily all shift, especially on 12-hour shifts, in heat or in enclosed spaces
+- **Fuel:** no heavy meals right before your sleep window
+- **Stimulants:** taper caffeine hours before sleep; watch alcohol and smoking
 - **Move daily:** walk, mobility, strength
-*Notes:* Individual-control items only. Offshore rosters often use 12-hour shifts; sleep can be short after rotation changes. Do not go beyond: this is not medical advice. [VERIFY specific sleep and hydration numbers before adding any.]
-*Offshore lens:* Use your off-hours to recover. Skip what steals sleep.
+*Notes (individual controls):*
+- Heavy food right before sleep can disturb digestion and your body clock. [Source: PMC10651732, supplied by presenter; VERIFY]
+- Long physical and mental effort in hot or enclosed rig spaces speeds fluid loss; steady water intake helps avoid the performance drop of mild dehydration. [VERIFY wording]
+- Rotation workers tend to use more caffeine, smoking and alcohol to cope with fatigue; a 2021 systematic review found higher alcohol intake and more smoking in some offshore groups. Poor sleep is linked with caffeine use in offshore studies. Seafarer guidance suggests no caffeine within about 6 hours of bed. [VERIFY]
+- Offshore rosters often use 12-hour shifts; sleep can be short after rotation changes (e.g. under 5 hours in one Gulf Coast study). [VERIFY]
+- This is general OH&S guidance, not medical advice.
+*Offshore lens:* Use your off-hours to recover. Protect your sleep window.
+
+## 13b. Include in 13 notes or as an optional slide: Rotation and transitions (optional, 2 min if time allows)
+- Going straight from a 12-hour shift into isolation with no mental buffer raises burnout risk
+- Build your own wind-down: shower, call home, short walk, screens off
+- Know what supports you: proper transition time, journey management, supervisor support
+*Notes:* Organisational scheduling controls (enforced transition times, journey management, supervisory support) are linked with lower worker fatigue. Individuals can't set these, but they can ask for them and use them. Keep this light for the live group; it is mainly for the recording. [VERIFY source]
 
 ## 14. 📊 Poll 2 + Try it now (3 min)
 **Which recovery habit will you try first?**
